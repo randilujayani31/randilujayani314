@@ -4,7 +4,7 @@
     Index:5066
     Registation number: ICT/19/20/132
 
-## Project Overview (Edit the content as required)
+## Project Overview 
 
 My Portfolio Website project aims to create an interactive and visually appealing online portfolio showcasing the my multimedia skills, achievements, and creative work. The website serves as a platform to highlight my projects, provide information about my background and career aspirations, and offer a means for visitors to contact me.
 
